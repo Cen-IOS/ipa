@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/Cen-IOS/ipa/raw/main/esign_4.8.2_unsigned.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://archive.org/download/photo_2021-07-27_07-40-53/photo_2021-07-27_07-40-53.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://archive.org/download/photo_2021-07-27_07-40-53/photo_2021-07-27_07-40-53.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>x.x.x</string>
+				<key>bundle-version</key>
+				<string>4.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>XiaoYang</string>
+				<key>title</key>
+				<string>Centesst</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
